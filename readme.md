@@ -1,2 +1,5 @@
-Works on thunderbird
-ToDo: Gmail
+Email template for work rapports
+ToDo: 
+    -> Gmail #done
+    -> Check different mail clients
+    -> Spice it up
